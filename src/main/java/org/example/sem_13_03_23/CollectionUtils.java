@@ -1,4 +1,4 @@
-package org.example;
+package org.example.sem_13_03_23;
 
 import java.util.*;
 
